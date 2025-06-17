@@ -23,5 +23,12 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "resolutions": {
+    "webpack-dev-server": "5.3.0"
   }
 }
